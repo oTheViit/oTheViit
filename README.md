@@ -20,4 +20,4 @@ The store I founded is called CodeManagment in which we focus on creating Discor
 [profile]: https://github-readme-stats.vercel.app/api?username=oTheViit&show_icons=true&theme=omni&count_private=true&hide_border=true
 [languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=oTheViit&theme=omni&layout=compact&hide_border=true
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=oTheViit&color=purple" alt="oTheViit views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=oTheViit&color=blue" alt="oTheViit views" /> </p>
