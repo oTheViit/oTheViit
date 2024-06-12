@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
-### My name is Davi Maciel I'm 19 years old and currently I work in only one language, but I have knowledge of some others. I'm CEO of my own store focused on apps for Discord bots. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
+### My name is Davi Maciel I'm 18 years old and currently I work in only one language, but I have knowledge of some others. I'm CEO of my own store focused on apps for Discord bots. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="20px"> 
 
 The store I founded is called CodeManagment in which we focus on creating Discord bot applications for various Servers.
 
